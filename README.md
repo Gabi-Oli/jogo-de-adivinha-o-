@@ -2,6 +2,7 @@
 
 Um projeto simples e divertido de **Jogo de Adivinhação** desenvolvido com **HTML5, CSS3 e JavaScript**. O objetivo do jogo é tentar adivinhar um número secreto gerado aleatoriamente entre **1 e 100**.
 
+https://gabi-oli.github.io/jogo-de-adivinha-o-/
 ---
 
 ## 🎨 Apresentação Visual
